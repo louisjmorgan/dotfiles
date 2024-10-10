@@ -48,7 +48,7 @@ style = "Regular"
 action = "PasteSelection"
 mouse = "Middle"
 
-[shell]
+[terminal.shell]
 program = "/bin/bash"
 
 [window.dimensions]
